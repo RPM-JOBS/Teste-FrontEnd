@@ -13,7 +13,7 @@ Sua missão é criar a página abaixo:
 1. Crie um repositório no GitHub ou no Bitbucket.
 2. Utilizando a estrutura de pastas que você escolher monte o layout anexo.
 3. Com o uso de Javascript ou JQuery, faça a validação de todos os inputs.
-4. Crie um layout responsivo Mobile/Desktop usando o bootstrap ou outro de sua preferência.
+4. Crie um layout responsivo Mobile/Desktop usando o bootstrap ou outro Framework de sua preferência.
 
 ### Devem ser utilizadas as seguintes tecnologias:
 -	Bootstrap V3 / V4 
@@ -28,3 +28,10 @@ Sua missão é criar a página abaixo:
 
 - Você pode utilizar um pre-processador se desejar.
 - Os arquivos PSD está na pasta **public**
+
+### Fique Ligado:
+- Um código limpo será bem vindo.
+- Código escrito em Bootstrap 4 será um ponto positivo.
+- Fique atento com o layout responsivo.
+
+### Boa Sorte!
